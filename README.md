@@ -2,7 +2,8 @@
 **Welcome to the CIPAR LAB**.
 
 This is the official repository of the CIPAR LAB. Here you can find the code and the data of the experiments conducted in the lab. The repository is organized in the following way:
-![test_logo](/Photos/logo_2.webp)
+
+![test_logo](/Photos/logo_2.png)
 
 
 
